@@ -1,0 +1,29 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+    background-color: dimgrey;
+    color: #696969;
+    padding: 3px;
+}
+
+#main {
+    padding: 5px;
+    padding-left:  15px;
+    padding-right: 15px;
+    background-color: #ffffff;
+    border-radius: 0 0 5px 5px;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    border-bottom: 3px solid #cc9900;
+    color: gold;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    border-bottom: 3px solid #cc9900;
+    color: maroon;
+    font-size: 30px;
+}

@@ -1,0 +1,16 @@
+<title>Website</title>
+
+/*****project paths
+ - img
+    - images.jpg
+ - js
+    - vendor
+        - jquery
+    -my app
+        -app.js
+ - css
+ - index.html
+  -about.html*****/
+
+
+  <title>What</title>
